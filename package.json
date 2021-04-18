@@ -16,6 +16,7 @@
     "test": "jest"
   },
   "dependencies": {
+    "make-empty-github-commit": "^1.2.1",
     "probot": "^11.0.1"
   },
   "devDependencies": {
